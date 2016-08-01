@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <token>dfcedf92df92dfcbdfcfdf9ddfc9df92df9bdfccdf9adfcbdfcedfcedfcfdf9fdf9cdfc9df9bdfcedf9edf98dfcedf98df9ddfc9df9edf93dfccdf98df9adfcedf99dfc9df9cdf9cdfcedf9adfcfdf99</token>
+          <option name="hostUrl" value="http://sonar.shared.wmg.com:9000/" />
+          <option name="name" value="http://sonar.shared.wmg.com:9000/" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
