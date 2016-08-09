@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '[rights-service] - ...'" />
     <option name="defaultScopeName" value="Directory '[rights-service] - ...'" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '[rights-service] - ...'" />
   </component>
 </application>
