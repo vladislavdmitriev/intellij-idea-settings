@@ -7,11 +7,6 @@
     <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\btodo\b.*" />
-    <pattern pattern="\bfixme\b.*" />
-    <pattern icon="important" pattern="mongo" />
-    <filter name="mongo">
-      <pattern index="2" />
-    </filter>
+    <filter name="mongo" />
   </component>
 </application>
