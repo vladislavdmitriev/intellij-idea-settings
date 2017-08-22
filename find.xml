@@ -3,7 +3,7 @@
     <option name="customScope" value="Default" />
     <option name="defaultScopeName" value="Default" />
     <option name="SEARCH_SCOPE" value="Default" />
-    <option name="FILE_MASK" value="*stage.yml" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,12 +14,12 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.yml</mask>
       <mask>*s.yml</mask>
-      <mask>*st.yml</mask>
-      <mask>*sta.yml</mask>
-      <mask>*stag.yml</mask>
       <mask>*stage.yml</mask>
+      <mask>*stag.yml</mask>
+      <mask>*sta.yml</mask>
+      <mask>*st.yml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
