@@ -3,9 +3,10 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <token>dfcedf92df92dfcbdfcfdf9ddfc9df92df9bdfccdf9adfcbdfcedfcedfcfdf9fdf9cdfc9df9bdfcedf9edf98dfcedf98df9ddfc9df9edf93dfccdf98df9adfcedf99dfc9df9cdf9cdfcedf9adfcfdf99</token>
-          <option name="hostUrl" value="http://sonar.shared.wmg.com:9000/" />
-          <option name="name" value="http://sonar.shared.wmg.com:9000/" />
+          <option name="hostUrl" value="http://192.168.168.178:9000/" />
+          <token>df9edfcbdf9adf9bdf9fdf93df98df92df92df9edf9adf9ddf9edf9cdfcbdfcedfcfdf9adfc9df92df9cdf98df9ddfc8df98dfccdf9bdfcbdf92df92df99df98dfc8df9fdf93df98df99df9cdf9adfc8</token>
+          <option name="name" value="wcg" />
+          <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
     </option>
