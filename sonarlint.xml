@@ -3,8 +3,8 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <option name="hostUrl" value="http://192.168.169.181:9000/" />
-          <token>df9edfcbdf9adf9bdf9fdf93df98df92df92df9edf9adf9ddf9edf9cdfcbdfcedfcfdf9adfc9df92df9cdf98df9ddfc8df98dfccdf9bdfcbdf92df92df99df98dfc8df9fdf93df98df99df9cdf9adfc8</token>
+          <option name="hostUrl" value="http://91.234.37.173:9000" />
+          <token>df93df93df99dfc8df9fdf9cdf9bdfcfdfc8dfcedf9cdfcfdf9cdfc8df9bdf9edfc9dfcedf9adfcbdf9ddf99df93dfcedfcfdf92dfcbdfcbdf9bdfcedfccdfc9dfccdf9ddf9bdfcedfcfdfcfdf9bdf9e</token>
           <option name="name" value="wcg" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
