@@ -4,8 +4,8 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://91.234.37.173:9000" />
-          <token>df92dfccdf99dfcbdf9cdfc9dfcedfc8df99dfcbdf92dfcedfc9dfcedfcbdfccdf9adfc9dfcfdf9cdfc8dfc8df9bdf9edf9edf9fdfcedfc9dfc9dfc8df92dfcbdf99dfcedfcbdf92df92df92df9fdf9b</token>
-          <option name="name" value="wcg" />
+          <token>dfc9dfcfdfcbdf98df9edf9cdf99df98df99dfcbdf92df9cdf9bdf92dfcedf9edf9cdfcedf9adf99dfcfdfcbdfcedf9fdf9fdfc8dfcfdf9cdf9adfcfdf93dfcedf9cdf93df9bdf9cdf9bdfc9df99dfcc</token>
+          <option name="name" value="wcg-sonarqube" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
