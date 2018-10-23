@@ -8,6 +8,12 @@
           <option name="name" value="wcg-sonarqube" />
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://91.234.37.137:9000" />
+          <token>dfc8dfcfdfcedfcbdf9edfc9df9cdfcfdf9adf98df9adfcfdfcfdfccdfcedfccdfcfdf98dfcedfcfdfc8df9adf9cdf9edfcfdf9edf9edf9edf98df9bdfcfdf99df9cdf93dfc9df99dfc9df9ddfcedf9d</token>
+          <option name="name" value="dtd-sonarqube" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
       </list>
     </option>
   </component>
