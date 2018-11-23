@@ -5,6 +5,7 @@
       <mapping ext="abi" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="753750029z--4a91d42d33e1f6e24bc86a52fd6a00f7aac15ee8" type="PLAIN_TEXT" />
+      <mapping ext="preperties" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
       <mapping pattern="retry-initial-transfers-test" type="SQL" />
     </extensionMap>
